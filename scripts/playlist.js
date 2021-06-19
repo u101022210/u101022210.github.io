@@ -59,4 +59,9 @@
 		artist:"2 Mello",
 		src:"music/The Full Mix.mp3"
 	},
+	{
+		name:"Freesia",
+		artist:"Daisuke Ishiwatari",
+		src:"music/Freesia.mp3"
+	},
 ];
